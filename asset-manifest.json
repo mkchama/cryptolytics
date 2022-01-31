@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/cryptolytics/static/css/main.5df653ca.chunk.css",
-    "main.js": "/cryptolytics/static/js/main.992d96ae.chunk.js",
-    "main.js.map": "/cryptolytics/static/js/main.992d96ae.chunk.js.map",
+    "main.js": "/cryptolytics/static/js/main.5b4aed93.chunk.js",
+    "main.js.map": "/cryptolytics/static/js/main.5b4aed93.chunk.js.map",
     "runtime-main.js": "/cryptolytics/static/js/runtime-main.cd79b0cf.js",
     "runtime-main.js.map": "/cryptolytics/static/js/runtime-main.cd79b0cf.js.map",
     "static/css/2.a95be28f.chunk.css": "/cryptolytics/static/css/2.a95be28f.chunk.css",
-    "static/js/2.19325242.chunk.js": "/cryptolytics/static/js/2.19325242.chunk.js",
-    "static/js/2.19325242.chunk.js.map": "/cryptolytics/static/js/2.19325242.chunk.js.map",
+    "static/js/2.7bc104a5.chunk.js": "/cryptolytics/static/js/2.7bc104a5.chunk.js",
+    "static/js/2.7bc104a5.chunk.js.map": "/cryptolytics/static/js/2.7bc104a5.chunk.js.map",
     "index.html": "/cryptolytics/index.html",
     "static/css/2.a95be28f.chunk.css.map": "/cryptolytics/static/css/2.a95be28f.chunk.css.map",
     "static/css/main.5df653ca.chunk.css.map": "/cryptolytics/static/css/main.5df653ca.chunk.css.map",
-    "static/js/2.19325242.chunk.js.LICENSE.txt": "/cryptolytics/static/js/2.19325242.chunk.js.LICENSE.txt",
+    "static/js/2.7bc104a5.chunk.js.LICENSE.txt": "/cryptolytics/static/js/2.7bc104a5.chunk.js.LICENSE.txt",
     "static/media/icon.7bbc478c.svg": "/cryptolytics/static/media/icon.7bbc478c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.cd79b0cf.js",
     "static/css/2.a95be28f.chunk.css",
-    "static/js/2.19325242.chunk.js",
+    "static/js/2.7bc104a5.chunk.js",
     "static/css/main.5df653ca.chunk.css",
-    "static/js/main.992d96ae.chunk.js"
+    "static/js/main.5b4aed93.chunk.js"
   ]
 }
