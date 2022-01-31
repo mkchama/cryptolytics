@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cryptolytics/static/css/main.5df653ca.chunk.css",
-    "main.js": "/cryptolytics/static/js/main.5b4aed93.chunk.js",
-    "main.js.map": "/cryptolytics/static/js/main.5b4aed93.chunk.js.map",
+    "main.js": "/cryptolytics/static/js/main.dbf1beaf.chunk.js",
+    "main.js.map": "/cryptolytics/static/js/main.dbf1beaf.chunk.js.map",
     "runtime-main.js": "/cryptolytics/static/js/runtime-main.cd79b0cf.js",
     "runtime-main.js.map": "/cryptolytics/static/js/runtime-main.cd79b0cf.js.map",
     "static/css/2.a95be28f.chunk.css": "/cryptolytics/static/css/2.a95be28f.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.a95be28f.chunk.css",
     "static/js/2.7bc104a5.chunk.js",
     "static/css/main.5df653ca.chunk.css",
-    "static/js/main.5b4aed93.chunk.js"
+    "static/js/main.dbf1beaf.chunk.js"
   ]
 }
